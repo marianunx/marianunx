@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54B8FF&size=45&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+MARIA+EDUARDA;I'm+20+years+old;I+am+from+Brasília,+DF;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustavo-CS&show_icons=true&count_private=true&hide_border=true&title_color=54B8FF&icon_color=54B8FF&text_color=FFFFFF&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-CS&layout=compact&hide_border=true&title_color=54B8FF&text_color=54B8FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marianunx&show_icons=true&count_private=true&hide_border=true&title_color=54B8FF&icon_color=54B8FF&text_color=FFFFFF&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianunx&layout=compact&hide_border=true&title_color=54B8FF&text_color=54B8FF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-CS&bg_color=131112&color=54B8FF&line=54B8FF&point=f8f8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marianunx&bg_color=131112&color=54B8FF&line=54B8FF&point=f8f8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>  
 <a href="https://www.linkedin.com/in/maria-eduarda-nunes-bezerra-37b306295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
