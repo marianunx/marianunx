@@ -22,8 +22,6 @@
 
 I'm a Computer Science student who enjoys creating practical solutions through technology.
 
-My main interests include Python development, process automation and web applications. I use this profile to share personal projects, academic work and everything I build throughout my learning journey.
-
 ---
 
 ## GitHub Statistics
